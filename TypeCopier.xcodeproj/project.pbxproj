@@ -187,11 +187,12 @@
 				};
 			};
 			buildConfigurationList = 2954ECB42E25044400A82A93 /* Build configuration list for PBXProject "TypeCopier" */;
-			developmentRegion = en;
+			developmentRegion = de;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				de,
 			);
 			mainGroup = 2954ECB02E25044400A82A93;
 			minimizedProjectReferenceProxies = 1;
